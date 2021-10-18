@@ -1,0 +1,46 @@
+body{
+background: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg);
+}
+
+div{
+background-color: green;
+border-color: blue;
+border-width: 5px;
+border-style: double;
+}
+
+div>p{
+color: yellow;
+}
+
+p{
+color: white;
+}
+ span{
+ background: red;
+ color: black;
+ }
+
+
+
+
+
+
+/* this is my 1st css file  */
+/*
+h1{
+color: red;
+}
+
+h4{
+color: green;
+}
+
+li{
+color: rgba(8, 84, 1, .9);
+}
+
+p{
+color: #07d1e3;
+}
+ */

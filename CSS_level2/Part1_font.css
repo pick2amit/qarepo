@@ -1,0 +1,22 @@
+h1{
+  font-family:"Arial"
+  /* font-style: italic; */
+}
+
+/* p{
+  font-family: 'Hachi Maru Pop', cursive;
+} */
+
+p {
+   font-family: 'GrandHotelRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 1.0em;
+}

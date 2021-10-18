@@ -1,0 +1,29 @@
+button{
+  color: white;
+  background-color: #00008B;
+}
+
+.one{
+  margin: auto;
+  width: 50%;
+  background-color: #f2f2f2;
+  text-align:justify;
+  padding-left: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+table{
+  margin:auto;
+  margin-top: 20px;
+}
+table, tr, td{
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+td {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  font-size: 50px;
+}

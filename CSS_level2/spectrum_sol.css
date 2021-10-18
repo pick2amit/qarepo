@@ -1,0 +1,35 @@
+td{
+  border: 5px solid white;
+  height: 250px;
+  width: 75px;
+}
+
+h1{
+  text-align: center;
+  font-family: GrandHotelRegular;
+  font-style: italic;
+}
+
+.art{
+  margin: auto;
+}
+
+#one{
+  background-color: #264653;
+}
+
+#two{
+  background-color: #2a9d8f;
+}
+
+#three{
+  background-color: #e9c46a;
+}
+
+#four{
+  background-color: #f4a261;
+}
+
+#five{
+  background-color: #e76f51;
+}
